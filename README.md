@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rasheen, an IT Professional</a>☺</h1>
+<h1>Hi, I'm Rasheen, an <a href="https://linkedin.com/in/rasheen-taylor-78434223b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,5 +16,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/technsaved
-[linkedin]: [www.linkedin.com/in/rasheen-taylor-78434223b](https://www.linkedin.com/in/rasheen-taylor-78434223b/)https://www.linkedin.com/in/rasheen-taylor-78434223b/
-
+[linkedin]: https://www.linkedin.com/in/rasheen-taylor-78434223b/
